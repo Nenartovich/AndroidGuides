@@ -9,5 +9,6 @@ public class EmPubLiteActivity extends Activity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.main);
+    //test new feature
   }
 }
