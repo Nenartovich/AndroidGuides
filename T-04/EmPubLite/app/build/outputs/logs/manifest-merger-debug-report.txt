@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:11-46
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:4:3-49
+	android:versionCode
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:3:3-61
+supports-screens
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:6:3-10:36
+	android:largeScreens
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:7:5-32
+	android:smallScreens
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:9:5-33
+	android:normalScreens
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:8:5-33
+	android:xlargeScreens
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:10:5-33
+application
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:12:3-26:17
+	android:supportsRtl
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:16:5-31
+	android:label
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:15:5-37
+	tools:ignore
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:18:5-44
+	android:icon
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:14:5-39
+	android:allowBackup
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:13:5-32
+	android:theme
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:17:5-36
+activity#com.commonsware.empublite.EmPubLiteActivity
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:19:5-25:16
+	android:name
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:19:15-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:20:7-24:23
+action#android.intent.action.MAIN
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:21:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml:23:19-66
+uses-sdk
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/AndroidManifest.xml
