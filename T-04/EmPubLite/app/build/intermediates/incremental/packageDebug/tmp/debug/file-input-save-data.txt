@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 20 22:35:31 MSK 2021
+#Wed Jan 20 22:43:09 MSK 2021
 0.baseType=DIRECTORY
 0.base=/home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex

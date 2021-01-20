@@ -28,11 +28,9 @@
                 {
                     "source": "/home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "84,140",
-                        "endColumns": "55,53",
-                        "endOffsets": "137,191"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
                         "startLines": "5,6",
@@ -45,11 +43,9 @@
                 {
                     "source": "/home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "2,2,2",
-                        "startOffsets": "147,53,98",
-                        "endColumns": "43,44,48",
-                        "endOffsets": "188,95,144"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
                         "startLines": "2,3,4",
@@ -62,20 +58,17 @@
                 {
                     "source": "/home/eugene/Desktop/AndroidGuides/T-04/EmPubLite/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "2",
-                        "startOffsets": "50",
-                        "endLines": "5",
-                        "endColumns": "10",
-                        "endOffsets": "172"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "8",
                         "startColumns": "4",
-                        "startOffsets": "360",
+                        "startOffsets": "361",
                         "endLines": "10",
                         "endColumns": "10",
-                        "endOffsets": "482"
+                        "endOffsets": "448"
                     }
                 },
                 {
@@ -84,15 +77,15 @@
                         "startLines": "1",
                         "startColumns": "2",
                         "startOffsets": "14",
-                        "endColumns": "44",
-                        "endOffsets": "56"
+                        "endColumns": "45",
+                        "endOffsets": "57"
                     },
                     "to": {
                         "startLines": "7",
                         "startColumns": "4",
                         "startOffsets": "313",
-                        "endColumns": "46",
-                        "endOffsets": "355"
+                        "endColumns": "47",
+                        "endOffsets": "356"
                     }
                 }
             ]
