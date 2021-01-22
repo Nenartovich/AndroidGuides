@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b424147d-8c21-4fa6-80b7-2d9dd07f8626" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../T-04/EmPubLite/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../T-04/EmPubLite/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -45,6 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -129,6 +138,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="540" y="291" width="830" height="505" key="AndroidCreateResourceFileDialog" timestamp="1611318238675">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="291" width="830" height="505" key="AndroidCreateResourceFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611318238675" />
+    <state x="737" y="286" width="425" height="520" key="AndroidCreateXmlResourceDialog" timestamp="1611318314645">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="286" width="425" height="520" key="AndroidCreateXmlResourceDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1611318314645" />
     <state x="684" y="244" width="530" height="605" key="FileChooserDialogImpl" timestamp="1611171779515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

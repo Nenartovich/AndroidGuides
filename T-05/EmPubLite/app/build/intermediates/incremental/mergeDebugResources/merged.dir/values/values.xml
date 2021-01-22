@@ -6,7 +6,8 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="app_name">EmPub Lite</string>
+    <string name="hint">Enter notes here</string>
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-    
+    <!-- Customize your theme here. -->
   </style>
 </resources>
