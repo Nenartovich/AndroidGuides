@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "147,53,98",
+                        "endColumns": "43,44,48",
+                        "endOffsets": "188,95,144"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "/home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "2,4",
+                        "startOffsets": "14,62",
+                        "endColumns": "45,49",
+                        "endOffsets": "57,107"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "313,361",
+                        "endColumns": "47,49",
+                        "endOffsets": "356,406"
+                    }
+                },
+                {
+                    "source": "/home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "50",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "172"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "411",
+                        "endLines": "11",
+                        "endColumns": "10",
+                        "endOffsets": "533"
+                    }
+                },
+                {
+                    "source": "/home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "84,140",
+                        "endColumns": "55,53",
+                        "endOffsets": "137,191"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "199,257",
+                        "endColumns": "57,55",
+                        "endOffsets": "252,308"
+                    }
+                }
+            ]
+        }
+    ]
+}
