@@ -6,7 +6,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b424147d-8c21-4fa6-80b7-2d9dd07f8626" name="Default Changelist" comment="" />
+    <list default="true" id="b424147d-8c21-4fa6-80b7-2d9dd07f8626" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../T-04/EmPubLite/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../T-04/EmPubLite/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
