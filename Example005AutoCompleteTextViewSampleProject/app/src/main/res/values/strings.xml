@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example005. AutoCompleteTextViewSampleProject</string>
+    <string name="type_here">Type here (lorem, ipsum…)</string>
+</resources>

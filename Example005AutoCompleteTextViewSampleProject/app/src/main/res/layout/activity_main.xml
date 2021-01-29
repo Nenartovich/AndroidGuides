@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal_200"
+    tools:context=".MainActivity">
+    <TextView
+        android:textSize="40sp"
+        android:id="@+id/tvSelection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/actvEdit"
+        android:hint="@string/type_here"
+        android:textSize="30sp"
+        android:padding="4dp"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:completionThreshold="3"/>
+</LinearLayout>
