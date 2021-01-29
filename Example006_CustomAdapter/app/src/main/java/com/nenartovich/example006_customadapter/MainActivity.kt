@@ -27,15 +27,19 @@ class MainActivity : ListActivity() {
         @SuppressLint("SetTextI18n")
         override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
             val row = super.getView(position, convertView, parent)
-            val icon = row.findViewById<ImageView>(R.id.icon)
-            if (items[position].length > 4) {
-                icon.setImageResource(R.drawable.ok)
-            } else {
-                icon.setImageResource(R.drawable.delete)
+            var holder = row.tag
+            if (holder == null) {
+                holder = ViewHolder(row)
+                row.tag = holder
             }
 
-            val size = row.findViewById<TextView>(R.id.size)
-            size.text = "${getString(R.string.size_template)} ${items[position].length}"
+            if (items[position].length > 4) {
+                (holder as ViewHolder).icon.setImageResource(R.drawable.ok)
+            } else {
+                (holder as ViewHolder).icon.setImageResource(R.drawable.delete)
+            }
+
+            holder.size.text = "${getString(R.string.size_template)} ${items[position].length}"
             return row
         }
     }
