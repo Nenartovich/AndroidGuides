@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.nenartovich.example008_webvieweventslistening">
     <uses-permission android:name="android.permission.INTERNET"/>
+    <meta-data android:name="android.webkit.WebView.MetricsOptOut"
+        android:value="true"/>
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
