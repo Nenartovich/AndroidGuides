@@ -15,23 +15,15 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         browser = findViewById(R.id.vwBrowser)
-        browser.webViewClient = Callback()
-        loadTime()
-    }
-
-    private fun loadTime() {
-        val page = "<html><body><a href='https://commonsware.com/'>" +
-                DateUtils.formatDateTime(this, Date().time,
-                                        DateUtils.FORMAT_SHOW_DATE) +
-                                        "</a></body></html>"
-        browser.loadData(page, "text/html; charset=UTF-8", null)
-    }
-
-    inner class Callback : WebViewClient() {
-        override fun shouldOverrideUrlLoading(view: WebView?, request: WebResourceRequest?): Boolean {
-            loadTime()
-            return true
+        browser.webViewClient = object : WebViewClient() {
+            override fun shouldOverrideUrlLoading(view: WebView?, url: String?): Boolean {
+                view?.loadUrl(url!!)
+                return true
+            }
         }
+        browser.loadUrl("http://commonsware.com");
     }
+
+
 }
 
