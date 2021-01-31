@@ -14,6 +14,10 @@
         android:smallScreens="false"
         android:xlargeScreens="true" />
 
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.0" />
+
     <application
         android:allowBackup="false"
         android:debuggable="true"

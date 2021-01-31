@@ -1,77 +1,140 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:17:1-31:12
+MERGED from [io.karim:materialtabs:2.0.5] /home/eugene/.gradle/caches/transforms-1/files-1.1/materialtabs-2.0.5.aar/0095b16cb99925f51d76fa984c7f92ee/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:11-46
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:11-46
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:4:3-49
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:4:3-49
 	android:versionCode
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:3:3-61
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:3:3-61
 supports-screens
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:6:3-10:36
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:6:3-10:36
 	android:largeScreens
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:7:5-32
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:7:5-32
 	android:smallScreens
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:9:5-33
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:9:5-33
 	android:normalScreens
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:8:5-33
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:8:5-33
 	android:xlargeScreens
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:10:5-33
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:10:5-33
 application
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:12:3-26:17
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:12:3-26:17
+MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:11:5-20
+MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:16:5-31
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:16:5-31
 	android:label
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:15:5-37
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:15:5-37
 	tools:ignore
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:18:5-44
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:18:5-44
 	android:icon
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:14:5-39
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:14:5-39
 	android:allowBackup
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:13:5-32
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:13:5-32
 	android:theme
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:17:5-36
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:17:5-36
 activity#com.commonsware.empublite.EmPubLiteActivity
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:19:5-25:16
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:19:5-25:16
 	android:name
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:19:15-48
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:19:15-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:20:7-24:23
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:20:7-24:23
 action#android.intent.action.MAIN
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:21:9-61
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:21:9-61
 	android:name
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:21:17-58
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:21:17-58
 category#android.intent.category.LAUNCHER
-ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:23:9-69
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:23:9-69
 	android:name
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml:23:19-66
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:23:19-66
 uses-sdk
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:7:5-9:41
+MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:21:5-23:55
+MERGED from [io.karim:materialtabs:2.0.5] /home/eugene/.gradle/caches/transforms-1/files-1.1/materialtabs-2.0.5.aar/0095b16cb99925f51d76fa984c7f92ee/AndroidManifest.xml:6:5-8:41
+MERGED from [io.karim:materialtabs:2.0.5] /home/eugene/.gradle/caches/transforms-1/files-1.1/materialtabs-2.0.5.aar/0095b16cb99925f51d76fa984c7f92ee/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
-		INJECTED from /home/eugene/Desktop/AndroidGuides/T-05/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/ffbba3982f8561a4a8815006e595e3b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/6f5211a82b7f60e7b1febddfef79e88d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/0ff3c40b028344c7cd54aca54fffe34b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:26:9-47
