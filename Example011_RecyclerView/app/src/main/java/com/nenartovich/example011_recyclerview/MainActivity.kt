@@ -24,8 +24,10 @@ class MainActivity : RecyclerViewActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setLayoutManager(LinearLayoutManager(this))
+
+        val divider = resources.getDrawable(R.drawable.item_divider)
         getRecyclerView()
-            .addItemDecoration( DividerItemDecoration(this, LinearLayoutManager.VERTICAL))
+            .addItemDecoration( HorizontalDividerItemDecoration(divider))
         setAdapter(IconicAdapter())
 
     }
