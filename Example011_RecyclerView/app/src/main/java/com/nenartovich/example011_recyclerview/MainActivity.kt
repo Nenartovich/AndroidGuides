@@ -1,13 +1,11 @@
 package com.nenartovich.example011_recyclerview
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import android.widget.LinearLayout
 import android.widget.TextView
-import androidx.recyclerview.widget.DividerItemDecoration
+import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -32,40 +30,16 @@ class MainActivity : RecyclerViewActivity() {
 
     }
 
-    inner class IconicAdapter : RecyclerView.Adapter<RowHolder>() {
-        override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RowHolder
-            = RowHolder(layoutInflater.inflate(R.layout.row, parent, false))
+    inner class IconicAdapter : RecyclerView.Adapter<RowController>() {
+        override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RowController
+            = RowController(layoutInflater.inflate(R.layout.row, parent, false))
 
         override fun getItemCount(): Int = items.size
 
-        override fun onBindViewHolder(holder: RowHolder, position: Int) {
+        override fun onBindViewHolder(holder: RowController, position: Int) {
             holder.bindModel(items[position])
         }
 
     }
 
-
-    class RowHolder(row: View) : RecyclerView.ViewHolder(row) {
-        var label: TextView? = null
-        var size:  TextView? = null
-        var icon:  ImageView? = null
-        var template: String? = null
-        init {
-            label = row.findViewById(R.id.label)
-            size = row.findViewById(R.id.size)
-            icon = row.findViewById(R.id.icon)
-            template = size!!.context.getString(R.string.size_templete)
-        }
-
-        fun bindModel(item: String) {
-            label!!.text = item
-            size!!.text = String.format(template!!, item.length)
-            if (item.length > 4) {
-                icon!!.setImageResource(R.drawable.ok)
-            } else {
-                icon!!.setImageResource(R.drawable.delete)
-            }
-
-        }
-    }
 }

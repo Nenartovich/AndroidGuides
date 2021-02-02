@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 open class RecyclerViewActivity : Activity() {
     private var rv: RecyclerView? = null
 
-    fun setAdapter(adapter: RecyclerView.Adapter<MainActivity.RowHolder>) {
+    fun setAdapter(adapter: RecyclerView.Adapter<RowController>) {
         getRecyclerView().setAdapter(adapter)
     }
 
