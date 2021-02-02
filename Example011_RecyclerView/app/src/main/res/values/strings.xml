@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example011_RecyclerView</string>
+    <string name="icon">Icon</string>
+    <string name="size_templete">Size: %d</string>
+</resources>
