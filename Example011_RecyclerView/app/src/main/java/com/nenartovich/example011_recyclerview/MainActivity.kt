@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
+import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -23,7 +24,10 @@ class MainActivity : RecyclerViewActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setLayoutManager(LinearLayoutManager(this))
+        getRecyclerView()
+            .addItemDecoration( DividerItemDecoration(this, LinearLayoutManager.VERTICAL))
         setAdapter(IconicAdapter())
+
     }
 
     inner class IconicAdapter : RecyclerView.Adapter<RowHolder>() {
