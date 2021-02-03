@@ -7,7 +7,9 @@
     <declare-styleable name="MaterialTabs"><attr format="color" name="mtIndicatorColor"/><attr format="color" name="mtUnderlineColor"/><attr format="dimension" name="mtIndicatorHeight"/><attr format="dimension" name="mtUnderlineHeight"/><attr format="dimension" name="mtTabPaddingLeftRight"/><attr format="boolean" name="mtSameWeightTabs"/><attr format="boolean" name="mtTextAllCaps"/><attr format="boolean" name="mtPaddingMiddle"/><attr format="color" name="mtTextColorSelected"/><attr format="color" localization="suggested" name="mtMrlRippleColor"/><attr format="color" localization="suggested" name="mtMrlRippleHighlightColor"/><attr format="dimension" localization="suggested" name="mtMrlRippleDiameter"/><attr format="boolean" localization="suggested" name="mtMrlRippleOverlay"/><attr format="float" localization="suggested" name="mtMrlRippleAlpha"/><attr format="integer" localization="suggested" name="mtMrlRippleDuration"/><attr format="integer" localization="suggested" name="mtMrlRippleFadeDuration"/><attr format="boolean" localization="suggested" name="mtMrlRippleDelayClick"/><attr format="boolean" localization="suggested" name="mtMrlRipplePersistent"/><attr format="boolean" localization="suggested" name="mtMrlRippleInAdapter"/><attr format="dimension" localization="suggested" name="mtMrlRippleRoundedCorners"/></declare-styleable>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about">About</string>
     <string name="app_name">EmPub Lite</string>
+    <string name="help">Help</string>
     <string name="hint">Enter notes here</string>
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
     <!-- Customize your theme here. -->

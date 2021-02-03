@@ -4,8 +4,28 @@
         "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/menu_options.xml.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/res/menu/options.xml"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_info_outline_black_24dp.xml.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_info_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_help_outline_black_24dp.xml.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_help_outline_black_24dp.xml"
+    },
+    {
         "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-hdpi/ic_help_outline_black_24dp.png"
     },
     {
         "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/layout_mt_tab.xml.flat",
@@ -14,6 +34,14 @@
     {
         "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
         "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_info_outline_black_24dp.png.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-hdpi/ic_info_outline_black_24dp.png"
+    },
+    {
+        "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_help_outline_black_24dp.png.flat",
+        "source": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_help_outline_black_24dp.png"
     },
     {
         "merged": "/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",

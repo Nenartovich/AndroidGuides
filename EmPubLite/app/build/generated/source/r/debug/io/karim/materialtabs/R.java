@@ -41,10 +41,10 @@ public final class R {
         public static final int mtUnderlineHeight = 0x7f01001e;
     }
     public static final class id {
-        public static final int mt_tab_title = 0x7f040002;
+        public static final int mt_tab_title = 0x7f050004;
     }
     public static final class layout {
-        public static final int mt_tab = 0x7f050002;
+        public static final int mt_tab = 0x7f060002;
     }
     public static final class styleable {
         public static final int[] MaterialRippleLayout = { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a };
