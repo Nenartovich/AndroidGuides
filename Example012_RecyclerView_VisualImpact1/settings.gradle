@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Example012_RecyclerView_VisualImpact1"
