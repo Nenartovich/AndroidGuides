@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example013_RecyclerView_VisualImpact2</string>
+    <string name="icon">Icon</string>
+    <string name="size_templete">Size: %d</string>
+</resources>
