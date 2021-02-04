@@ -1,4 +1,4 @@
-#Thu Feb 04 00:42:26 MSK 2021
+#Thu Feb 04 22:16:11 MSK 2021
 base.0=/home/eugene/Desktop/AndroidGuides/EmPubLite/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

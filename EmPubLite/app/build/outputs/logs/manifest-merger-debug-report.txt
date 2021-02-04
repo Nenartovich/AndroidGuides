@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:17:1-31:12
 MERGED from [io.karim:materialtabs:2.0.5] /home/eugene/.gradle/caches/transforms-1/files-1.1/materialtabs-2.0.5.aar/0095b16cb99925f51d76fa984c7f92ee/AndroidManifest.xml:2:1-10:12
@@ -13,22 +13,22 @@ MERGED from [com.android.support:support-media-compat:25.3.0] /home/eugene/.grad
 MERGED from [com.android.support:support-core-utils:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/44d0e5d42af5c5da1d45652c1a18ed3e/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/a83bfbd5c99c5c92c4788fb486ee1af9/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/688f3427fc94299036fe86fc1bf20ae1/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:11-46
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:4:3-49
 	android:versionCode
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
-		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:3:3-61
@@ -43,7 +43,7 @@ ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidMani
 	android:xlargeScreens
 		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:10:5-33
 application
-ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:12:3-26:17
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:12:3-27:17
 MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:11:5-20
 MERGED from [com.commonsware.cwac:security:0.8.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/security-0.8.0.aar/368a1cbd96662f6bfc7bf50e74c0a609/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-v13:25.3.0] /home/eugene/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/85279712d4f018dcb1a285d5da860156/AndroidManifest.xml:29:5-20
@@ -86,6 +86,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:23:9-69
 	android:name
 		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:23:19-66
+activity#com.commonsware.empublite.SimpleContentActivity
+ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:26:5-54
+	android:name
+		ADDED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml:26:15-52
 uses-sdk
 INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/eugene/Desktop/AndroidGuides/EmPubLite/app/src/main/AndroidManifest.xml
