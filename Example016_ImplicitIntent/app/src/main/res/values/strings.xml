@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example016_ImplicitIntent</string>
+    <string name="show_me">Show result!</string>
+    <string name="url">URL</string>
+</resources>
