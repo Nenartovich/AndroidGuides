@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Example020_DynamicFragmentSimpleProject</string>
+    <string name="go_to_the_other_activity">Go to the OtherActivity!</string>
+</resources>
