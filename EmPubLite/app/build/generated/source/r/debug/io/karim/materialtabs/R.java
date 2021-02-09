@@ -41,7 +41,7 @@ public final class R {
         public static final int mtUnderlineHeight = 0x7f01001e;
     }
     public static final class id {
-        public static final int mt_tab_title = 0x7f050004;
+        public static final int mt_tab_title = 0x7f050003;
     }
     public static final class layout {
         public static final int mt_tab = 0x7f060002;

@@ -40,8 +40,9 @@ int drawable ic_info_outline_black_24dp 0x7f040001
 int id about 0x7f050000
 int id editor 0x7f050001
 int id help 0x7f050002
-int id main 0x7f050003
-int id mt_tab_title 0x7f050004
+int id mt_tab_title 0x7f050003
+int id pager 0x7f050004
+int id tabs 0x7f050005
 int layout editor 0x7f060000
 int layout main 0x7f060001
 int layout mt_tab 0x7f060002
